@@ -1,4 +1,4 @@
-## 📱 Maui-Mobile-Login-Api8
+## 📱 Maui-Mobile-Login
 Exemplo de projeto App Mobile em C# MAUI Xamarin Forms e API ASP.NET 8 Core Dapper com banco de dados MySQL.
 
 ## 📁 Mobile-Maui-Login-Pessoa
